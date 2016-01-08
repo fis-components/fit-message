@@ -11,7 +11,8 @@
     left: 0;
     width: 100%;
     height: 100%;
-    pointer-events: none; }
+    pointer-events: none;
+    z-index: 1051; }
     .lib-pc-message-lib-notice .m-layer table {
       pointer-events: none; }
       .lib-pc-message-lib-notice .m-layer table tbody {
