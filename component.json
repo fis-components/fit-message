@@ -1,0 +1,14 @@
+{
+    "name": "fit-message",
+    "description": "全局提示",
+    "repos": "https://github.com/2betop/placeholder.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "classnames": "^2.2.1",
+        "react": "^0.14.5",
+        "react-dom": "^0.14.5"
+    },
+    "version": "1.1.11"
+}
